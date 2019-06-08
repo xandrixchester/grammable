@@ -69,7 +69,7 @@ end
 
 gem 'jquery-rails'
 gem 'simple_form'
-
+gem 'devise'
 
 
 gem 'popper_js', '~> 1.11.1'
